@@ -1,6 +1,78 @@
 body {
     margin: 0%;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    padding-top: 40px;
+}
 
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    color: brown;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+span {
+    color: crimson;
+}
+
+.intro {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.express {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.M {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.half-intro {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-intro img {
+    width: 80%;
+}
+
+.half-express {
+    width: 50%;
+    padding-right: 2%;
+}
+
+.half-express img {
+    width: 80%;
+}
+
+.half-MP {
+    width: 50%;
+    padding-right: 2%;
+}
+
+.half-MP img {
+    width: 80%;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+p {
+    text-align: justify;
+    padding-right: 50px;
 }
