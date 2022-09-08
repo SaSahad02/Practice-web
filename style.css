@@ -45,10 +45,11 @@ span {
     background-color: aliceblue;
     border: solid;
     border-radius: 30px;
+    border-color: aqua;
 }
 
 .MP {
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 .car-stat {
@@ -58,6 +59,8 @@ span {
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 10px;
+    padding-left: 150px;
+    padding-right: 100px;
 }
 
 #redball {
@@ -130,4 +133,13 @@ p {
 .wkt {
     text-align: justify;
     font-size: 20px;
+}
+
+ul {
+    font-weight: 700;
+}
+
+#foot {
+    text-align: center;
+    font-weight: 100;
 }
