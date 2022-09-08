@@ -67,6 +67,11 @@ span {
     width: 80%;
 }
 
+.half-history {
+    width: 50%;
+    padding-right: 2%;
+}
+
 .flexible {
     display: flex;
     margin-bottom: 100px;
